@@ -1,1 +1,1 @@
-# ES 6 Basics project
+# JS Basic Projects
